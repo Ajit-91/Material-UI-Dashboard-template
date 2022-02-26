@@ -55,8 +55,10 @@ const colors = {
   },
 
   info: {
-    main: "#1A73E8",
-    focus: "#1662C4",
+    // main: "#1A73E8",
+    // focus: "#1662C4",
+    main: "#fd79a8",
+    focus: "#fd79a8",
   },
 
   success: {
@@ -108,8 +110,10 @@ const colors = {
     },
 
     info: {
-      main: "#49a3f1",
-      state: "#1A73E8",
+      // main: "#49a3f1",
+      // state: "#1A73E8",
+      main: "#f64976",
+      state: "#ff85c0",
     },
 
     success: {
